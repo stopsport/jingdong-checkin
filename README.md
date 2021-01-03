@@ -1,7 +1,7 @@
 ![sazs34’s github stats](https://github-readme-stats.vercel.app/api?username=sazs34&show_icons=true&theme=merko)
 
 # MyActions
-自己用来签到的东东,不支持售后
+自己用来签到的东东,不支持1售后
 
 目前[@lxk0301](https://github.com/lxk0301) 的代码都支持无限账号了，各位可以直接使用那边的了呢
 
